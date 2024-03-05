@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+  color: black;
+}
+.label-text {
+  font-size: medium;
+  color: black;
+}
+.input {
+  background-color: aliceblue;
+  border-color: black;
+  color: black;
+}
